@@ -1,0 +1,12 @@
+# Sistema y editores
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Secretos
+.env
+*.env
+
+# Guías personales que no se publican
+guia-defensa-*.md
