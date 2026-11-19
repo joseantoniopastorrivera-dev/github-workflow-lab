@@ -7,6 +7,8 @@ Laboratorio para practicar el flujo de trabajo de GitHub: ramas, issues, pull re
 - `README.md`: este archivo.
 - `LICENSE`: licencia MIT.
 - `.gitignore`: archivos que no se suben.
+- `docs/chuleta-git-gh.md`: comandos de git y gh usados en el laboratorio.
+- `.github/workflows/markdown-lint.yml`: revisión automática del formato de los Markdown.
 
 ## Flujo de trabajo
 
